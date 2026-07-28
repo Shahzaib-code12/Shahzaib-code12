@@ -14,21 +14,20 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Experties:</h3>
 
 
 <p align="left">
 
-<!-- C, C++, C# -->
-<img src="https://skillicons.dev/icons?i=c" width="45"/>
+<!--  C++, C# -->
+
 <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 <img src="https://skillicons.dev/icons?i=cs" width="45"/>
 
 <!-- Java -->
 <img src="https://skillicons.dev/icons?i=java" width="45"/>
 
-<!-- Python -->
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
+
 
 <!-- JavaScript / TypeScript -->
 <img src="https://skillicons.dev/icons?i=js" width="45"/>
