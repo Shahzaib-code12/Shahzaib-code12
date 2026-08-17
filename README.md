@@ -10,7 +10,7 @@
  <a href="https://www.linkedin.com/in/hafiz-shahzaib-6635672bb/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
-<a href="mailto:hshahzaib676@gmail.com" target="_blank">
+<a href="mailto:hshahzaib676@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 <a href="https://www.instagram.com/iam_.shahzaib?igsh=MTg2anM4YnBlZGFqZw==" target="_blank">
