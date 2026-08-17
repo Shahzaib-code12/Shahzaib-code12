@@ -47,13 +47,7 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 <img src="https://skillicons.dev/icons?i=cs" width="45"/>
 <img src="https://skillicons.dev/icons?i=js" width="45"/>
 
-<!-- .NET -->
 
-
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" />
 
 <!-- Frontend -->
 
@@ -118,23 +112,13 @@ Enterprise platform for monitoring departmental KPIs, metrics, dashboards, daily
 
 <br><br>
 
-⚡ <b>EV Management System (EVMS)</b><br>
-Enterprise platform for managing electric vehicle operations, transactions, dashboards, and reporting.
-
-<br><br>
 
 🚌 <b>Smart Transit Management System</b><br>
 Transportation management platform covering insurance, outsourced buses, surveys, complaints, feedback, and operational dashboards.
 
 <br><br>
 
-📦 <b>Cargo Management System</b><br>
-Cargo management platform covering bookings, deliveries, tracking, and operational reporting.
 
-<br><br>
-
-🌱 <b>Air Quality Monitoring System</b><br>
-Platform for collecting, managing, visualizing, and reporting environmental and air-quality data.
 
 </p>
 
