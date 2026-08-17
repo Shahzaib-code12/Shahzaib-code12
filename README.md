@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Shahzaib 👋</h1>
 <h3 align="center">.NET Developer | C#, ASP.NET MVC, .NET Core, SQL Server, Ado.Net, LINQ </h3>
-<h3 align="left">Connect with me:</h3>
+
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=.NET+Developer+%7C+ASP.NET+Core+%7C+ASP.NET+MVC+%7C+C%23;Building+Scalable+Enterprise+Applications;SQL+Server+%7C+REST+APIs+%7C+ADO.NET;Turning+Ideas+into+Production-Ready+Solutions;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
  <a href="https://www.linkedin.com/in/hafiz-shahzaib-6635672bb/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
@@ -38,9 +38,9 @@ Banking & payroll management system — Secure JWT-based transaction processing 
 RESTful APIs (Node.js/Express.js/MongoDB) — Including a complete food ordering application with full order lifecycle management.
 Secure authentication system — Standalone service using JWT and bcrypt.
 VPN application frontend — Full Angular/TypeScript UI, giving me hands-on experience delivering clean, responsive interfaces on top of the systems I engineer on the backend.
-<h3 align="left">Experties:</h3>
+<h3 align="center">Experties:</h3>
 
-<p align="left">
+<p align="center">
 
 <!-- Programming Languages -->
 
@@ -68,9 +68,9 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 
 </p>
 
-<h3 align="left">Backend & Database:</h3>
+<h3 align="center">Backend & Database:</h3>
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -81,9 +81,9 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 
 </p>
 
-<h3 align="left">Frontend:</h3>
+<h3 align="center">Frontend:</h3>
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html" width="45"/>
 <img src="https://skillicons.dev/icons?i=css" width="45"/>
@@ -93,9 +93,9 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 
 </p>
 
-<h3 align="left">Tools & Technologies:</h3>
+<h3 align="center">Tools & Technologies:</h3>
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git" width="45"/>
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
@@ -117,9 +117,9 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaib-code12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff" />
 </p>
 
-<h3 align="left">Featured Projects:</h3>
+<h3 align="center">Featured Projects:</h3>
 
-<p align="left">
+<p align="center">
 
 <table>
   <tr>
