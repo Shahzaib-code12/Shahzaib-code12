@@ -109,10 +109,10 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 
 <table>
   <tr>
-    <td width="50%">
-      <b>⚡ EV Management System (EVMS)</b><br/>
-      Enterprise platform for managing EV operations, transactions, dashboards, and reports.<br/>
-      <sub>ASP.NET Core MVC • C# • SQL Server • ADO.NET • RDLC</sub>
+   <td width="50%">
+      <b>📈 Enterprise Performance Manager (EPM)</b><br/>
+      Performance monitoring platform for tracking departmental KPIs, metrics, dashboards, and reports.<br/>
+      <sub>ASP.NET Core • C# • SQL Server • jQuery • Bootstrap</sub>
     </td>
     <td width="50%">
       <b>🚌 Smart Transit Management System</b><br/>
@@ -131,3 +131,9 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 <h3>Always Learning • Always Building • Always Improving 🚀</h3>
 
 </div>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shahzaib-code12&style=for-the-badge&label=PROFILE+VIEWS&color=6366F1" alt="Profile Views" />
+</p>
