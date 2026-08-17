@@ -20,20 +20,24 @@
 
 <h3 align="left">About Me:</h3>
 
-<p align="left">
-💻 Full Stack .NET Developer with professional experience building enterprise web applications.
-<br><br>
-🚀 Experienced in ASP.NET Core, ASP.NET MVC, C#, SQL Server, ADO.NET, REST APIs, JavaScript, jQuery, and Bootstrap.
-<br><br>
-⚙️ Experienced in developing enterprise applications, database-driven systems, dashboards, reporting platforms, stored procedures, and responsive web interfaces.
-<br><br>
-📊 Strong focus on backend development, SQL Server, API integration, performance optimization, and scalable business applications.
-<br><br>
-🔧 Currently working with enterprise-level systems involving daily operations, performance management, transportation, reporting, and business workflows.
-<br><br>
-🌱 Continuously learning modern .NET technologies, software architecture, API development, and best practices.
-</p>
+🏢 Currently @ Daewoo Pakistan
 
+I'm currently engineering core platforms at Daewoo Pakistan, where my work spans several critical business systems:
+
+Currently developing the EV Management System (EVMS) and supporting the Fastex Web Platform at Daewoo Express, Pakistan's largest inter-city bus operator.
+
+Fleet, Vendor & Insurance Management — Built end-to-end registration workflows linking vendors, owners, insurers, vehicle types, and policies using ASP.NET Core MVC (.NET 6), ADO.NET, and stored-procedure-backed persistence with AJAX-driven UI updates.
+User & Access Management — Upgraded user administration modules with rights-based UI visibility, session-based access control, and a fully secure change-password workflow built from the database layer up.
+Finance & Operations Daily Feed Platform — Maintain a large-scale reporting platform spanning five business lines (Finance, Urban, FastEx, Fueling, EBS), implementing transactional duplicate-submission safeguards, resolving complex data-binding and runtime issues, and keeping reporting workflows accurate for daily business decisions.
+💼 Previously @ Nova Soft Tech
+
+Delivered 5+ production-level applications across both the .NET and MERN ecosystems:
+
+E-commerce platform — N-Tier architecture, Repository Pattern, Unit of Work, real-time AJAX search, product approval workflow, role-based ASP.NET Core Identity.
+Banking & payroll management system — Secure JWT-based transaction processing with an admin dashboard for financial oversight.
+RESTful APIs (Node.js/Express.js/MongoDB) — Including a complete food ordering application with full order lifecycle management.
+Secure authentication system — Standalone service using JWT and bcrypt.
+VPN application frontend — Full Angular/TypeScript UI, giving me hands-on experience delivering clean, responsive interfaces on top of the systems I engineer on the backend.
 <h3 align="left">Experties:</h3>
 
 <p align="left">
@@ -45,7 +49,11 @@
 
 <!-- .NET -->
 
-<img src="https://skillicons.dev/icons?i=dotnet" width="45"/>
+
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" />
 
 <!-- Frontend -->
 
