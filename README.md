@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/hafiz-shahzaib-6635672bb/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
+ <a href="mailto:hshahzaib676@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/iam_.shahzaib?igsh=MTg2anM4YnBlZGFqZw==" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" />
   </a>
