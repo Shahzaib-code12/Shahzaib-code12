@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shahzaib 👋</h1>
-<h3 align="center">Full Stack .NET Developer | C#, ASP.NET MVC, .NET Core, SQL Server, Ado.Net, LINQ </h3>
+<h3 align="center">.NET Developer | C#, ASP.NET MVC, .NET Core, SQL Server, Ado.Net, LINQ </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=.NET+Developer+%7C+ASP.NET+Core+%7C+ASP.NET+MVC+%7C+C%23;Building+Scalable+Enterprise+Applications;SQL+Server+%7C+REST+APIs+%7C+ADO.NET;Turning+Ideas+into+Production-Ready+Solutions;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -107,16 +107,20 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 
 <p align="left">
 
-🚀 <b>Enterprise Performance Manager (EPM)</b><br>
-Enterprise platform for monitoring departmental KPIs, metrics, dashboards, daily feeds, and reports.
-
-<br><br>
-
-
-🚌 <b>Smart Transit Management System</b><br>
-Transportation management platform covering insurance, outsourced buses, surveys, complaints, feedback, and operational dashboards.
-
-<br><br>
+<table>
+  <tr>
+    <td width="50%">
+      <b>⚡ EV Management System (EVMS)</b><br/>
+      Enterprise platform for managing EV operations, transactions, dashboards, and reports.<br/>
+      <sub>ASP.NET Core MVC • C# • SQL Server • ADO.NET • RDLC</sub>
+    </td>
+    <td width="50%">
+      <b>🚌 Smart Transit Management System</b><br/>
+      Comprehensive platform for insurance, outsourced buses, surveys, complaints & Feedback, and operational dashboards.<br/>
+      <sub>ASP.NET Core • C# • SQL Server • jQuery • Bootstrap</sub>
+    </td>
+  </tr>
+</table>
 
 
 
