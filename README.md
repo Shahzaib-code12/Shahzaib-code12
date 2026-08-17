@@ -1,7 +1,10 @@
-<h1 align="center">Shahzaib</h1>
-<h3 align="center">Full Stack .NET Developer</h3>
-
+<h1 align="center">Hey, I'm Shahzaib 👋</h1>
+<h3 align="center">Full Stack .NET Developer | C#, ASP.NET MVC, .NET Core, SQL Server, Ado.Net, LINQ </h3>
 <h3 align="left">Connect with me:</h3>
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=.NET+Developer+%7C+ASP.NET+Core+%7C+ASP.NET+MVC+%7C+C%23;Building+Scalable+Enterprise+Applications;SQL+Server+%7C+REST+APIs+%7C+ADO.NET;Turning+Ideas+into+Production-Ready+Solutions;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hafiz-shahzaib-6635672bb/" target="_blank">
