@@ -117,7 +117,7 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaib-code12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff" />
 </p>
 
-<h3 align="center">Featured Projects:</h3>
+<h3 align="center">📌Featured Projects:</h3>
 
 <p align="center">
 
