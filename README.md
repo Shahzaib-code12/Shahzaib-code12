@@ -68,7 +68,7 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 
 </p>
 
-<h3 align="center">Backend & Database:</h3>
+<h3 align="center">Backend &  Database:</h3>
 
 <p align="center">
 
