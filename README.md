@@ -132,7 +132,7 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
     </td>
     <td width="50%">
       <b>🚍 Daewoo Express Corporate Website</b><br/>
-      End-to-end corporate & ticketing platform built solo for Pakistan's leading intercity bus operator — user auth, online seat selection & advance booking, booking management, terminal locator, and full corporate content (services, projects, FAQs).<br/>
+      End-to-end corporate & ticketing platform for Pakistan's leading intercity bus operator — user auth, online seat selection & advance booking, booking management, terminal locator, and full corporate content (services, projects, FAQs).<br/>
       <sub>ASP.NET Core MVC • C# • SQL Server • JavaScript • Bootstrap</sub>
     </td>
   </tr>
