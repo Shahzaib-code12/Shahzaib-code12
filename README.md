@@ -29,7 +29,7 @@ Currently developing the EV Management System (EVMS) and supporting the Fastex W
 Fleet, Vendor & Insurance Management — Built end-to-end registration workflows linking vendors, owners, insurers, vehicle types, and policies using ASP.NET Core MVC (.NET 6), ADO.NET, and stored-procedure-backed persistence with AJAX-driven UI updates.
 User & Access Management — Upgraded user administration modules with rights-based UI visibility, session-based access control, and a fully secure change-password workflow built from the database layer up.
 Finance & Operations Daily Feed Platform — Maintain a large-scale reporting platform spanning five business lines (Finance, Urban, FastEx, Fueling, EBS), implementing transactional duplicate-submission safeguards, resolving complex data-binding and runtime issues, and keeping reporting workflows accurate for daily business decisions.
-💼 Previously @ Nova Soft Tech
+💼 Previously at Nova Soft Tech
 
 Delivered 5+ production-level applications across both the .NET and MERN ecosystems:
 
