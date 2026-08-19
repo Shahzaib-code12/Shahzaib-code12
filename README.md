@@ -130,48 +130,47 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
       Performance monitoring platform for tracking departmental KPIs, metrics, dashboards, and reports.<br/>
       <sub>ASP.NET Core • C# • SQL Server • jQuery • Bootstrap</sub>
     </td>
-   <td width="50%">
-  <b>🚍 Daewoo Express Corporate Website</b><br/>
-  End-to-end corporate & ticketing platform built solo for Pakistan's leading intercity bus operator — user auth, online seat selection & advance booking, booking management, terminal locator, and full corporate content (services, projects, FAQs).<br/>
-  <sub>ASP.NET Core MVC • C# • SQL Server • JavaScript • Bootstrap</sub>
-</td>
+    <td width="50%">
+      <b>🚍 Daewoo Express Corporate Website</b><br/>
+      End-to-end corporate & ticketing platform built solo for Pakistan's leading intercity bus operator — user auth, online seat selection & advance booking, booking management, terminal locator, and full corporate content (services, projects, FAQs).<br/>
+      <sub>ASP.NET Core MVC • C# • SQL Server • JavaScript • Bootstrap</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <b>🚌 Smart Transit Management System</b><br/>
       Comprehensive platform for insurance, outsourced buses, surveys, complaints & feedback, and operational dashboards.<br/>
       <sub>ASP.NET Core • C# • SQL Server • jQuery • Bootstrap</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <b>🛒 E-Commerce Digital Store</b><br/>
       N-Tier storefront with real-time AJAX search, product approval workflow, and role-based Admin/Customer access.<br/>
       <sub>ASP.NET Core 8.0 • EF Core • SQL Server • Bootstrap 5</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <b>🏦 Banking & Payroll Management System</b><br/>
       Secure transaction platform with JWT auth, role-based access, and an automated payroll calculation engine.<br/>
       <sub>ASP.NET Core MVC • SQL Server • EF Core • JWT</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <b>🔒 VPN Application — Frontend</b><br/>
       Responsive, component-based Angular frontend for a VPN product with a clean, modular architecture.<br/>
       <sub>Angular • TypeScript • Bootstrap 5</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <b>🍔 Food Ordering App — Backend</b><br/>
       Complete REST API covering menu management and the full order lifecycle — place, track, and complete.<br/>
       <sub>Node.js • Express.js • MongoDB • JWT</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <b>🔐 Secure Authentication System</b><br/>
       Standalone auth service with registration, login, bcrypt password hashing, and protected route middleware.<br/>
       <sub>Node.js • Express.js • MongoDB • bcrypt</sub>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
