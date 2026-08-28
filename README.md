@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shahzaib </h1>
-<h2 align="center">.NET Developer | C# |ASP.NET | MVC | .NET Core | SQL Server</h2>
+<h3 align="center">.NET Developer | C# |ASP.NET | MVC | .NET Core | SQL Server</h3>
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=.NET+Developer+%7C+ASP.NET+Core+%7C+ASP.NET+MVC+%7C+C%23;Building+Scalable+Enterprise+Applications;SQL+Server+%7C+REST+APIs+%7C+ADO.NET+%7C+LINQ;Turning+Ideas+into+Production-Ready+Solutions;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 <h3 align="left">About Me</h3>
 
-🏢 Currently at Daewoo Pakistan
+Currently at Daewoo Pakistan
 
 I'm currently engineering core platforms at Daewoo Pakistan, where my work spans several critical business systems:
 
