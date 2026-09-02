@@ -30,7 +30,7 @@ Fleet, Vendor & Insurance Management — Built end-to-end registration workflows
 User & Access Management — Upgraded user administration modules with rights-based UI visibility, session-based access control, and a fully secure change-password workflow built from the database layer up.
 Finance & Operations Daily Feed Platform — Maintain a large-scale reporting platform spanning five business lines (Finance, Urban, FastEx, Fueling, EBS), implementing transactional duplicate-submission safeguards, resolving complex data-binding and runtime issues, and keeping reporting workflows accurate for daily business decisions.
 
-💼 Previously at Nova Soft Tech
+Previously at Nova Soft Tech
 
 Delivered 5+ production-level applications across both the .NET and MERN ecosystems:
 
