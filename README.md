@@ -111,7 +111,7 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haroonbuz&theme=tokyonight"
     alt="GitHub Profile Details"
   />-->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib-code12&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
+ <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib-code12&include_all_commits=true&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
 </p>
 
 
