@@ -132,7 +132,7 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Shahzaib-code12/Shahzaib-code12/snake/github-snake-dark.svg?v=4"
+    src="https://raw.githubusercontent.com/Shahzaib-code12/Shahzaib-code12/snake/github-snake-dark.svg?v=5"
     width="100%"
     alt="Shahzaib Contribution Snake"
   />
