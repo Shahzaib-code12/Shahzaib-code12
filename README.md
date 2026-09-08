@@ -46,7 +46,7 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
 <h3 align="center">Backend & Frameworks</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,swagger" height="50" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" height="50" alt="Backend Technologies" />
 </p>
 
 <p align="center">
