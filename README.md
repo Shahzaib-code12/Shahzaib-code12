@@ -105,6 +105,32 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 
 </p>
 
+<!-- 🛠️ TECH STACK & LATEST BLOGS -->
+
+<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Bʟᴏɢs</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./Skills_Animation_Dark.gif"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./Skills_Animation_White.gif"
+  />
+
+  <img
+    align="left"
+    alt="Tech Stack Animation"
+    src="./Skills_Animation_White.gif"
+    width="100%"
+  />
+</picture>
+
+<br clear="left" />
+
+
 <p align="center">
   <!--<img height="165" src="https://github-readme-stats.vercel.app/api?username=Haroonbuz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />-->
 <!--  <img
