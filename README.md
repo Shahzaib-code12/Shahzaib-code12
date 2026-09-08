@@ -112,12 +112,13 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Shahzaib-code12/Shahzaib-code12/main/Skills_Animation_Dark.gif"
-    width="100%"
+    width="80%"
+    height="400"
     alt="Tech Stack Animation"
   />
 </p>
-<br clear="left" />
 
+<br clear="left" />
 
 <p align="center">
   <!--<img height="165" src="https://github-readme-stats.vercel.app/api?username=Haroonbuz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />-->
