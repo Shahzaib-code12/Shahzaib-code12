@@ -123,7 +123,6 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
     alt="Shahzaib GitHub Activity Graph"
   />
 </p>
-
 <!-- 🐍 💬 SNAKE TITLE / 🌐 WEBSITE: https://textanim.com/ -->
 <p align="center">
   <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
