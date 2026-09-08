@@ -109,24 +109,23 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Bʟᴏɢs</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./Skills_Animation_Dark.gif"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./Skills_Animation_White.gif"
-  />
-
-  <img
-    align="left"
-    alt="Tech Stack Animation"
-    src="./Skills_Animation_White.gif"
-    width="100%"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./Skills_Animation_Dark.gif"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./Skills_Animation_White.gif"
+    />
+    <img
+      src="./Skills_Animation_White.gif"
+      alt="Tech Stack Animation"
+      width="100%"
+    />
+  </picture>
+</p>
 
 <br clear="left" />
 
