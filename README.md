@@ -114,8 +114,15 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib-code12&include_all_commits=true&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
 </p>
 
-<!-- 📈 ACTIVITY GRAPH / 🌐 WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=Shahzaib-code12&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<!-- 📈 ACTIVITY GRAPH -->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaib-code12&theme=react-dark&hide_border=true&color=6366F1&line=6366F1&point=8B5CF6"
+    width="100%"
+    alt="Shahzaib GitHub Activity Graph"
+  />
+</p>
 
 <!-- 🐍 💬 SNAKE TITLE / 🌐 WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -123,8 +130,13 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
 </p>
 
 <!-- 🐍 📈 SNAKE GRAPH / 🌐 WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/Shahzaib-code12/Shahzaib-code12/snake/github-snake-dark.svg" width="100%">
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Shahzaib-code12/Shahzaib-code12/snake/github-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 <h3 align="center"> Featured Projects</h3>
 
