@@ -128,12 +128,13 @@ VPN application frontend — Full Angular/TypeScript UI, giving me hands-on expe
   <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 </p>
 
-<!-- 🐍 📈 SNAKE GRAPH / 🌐 WEBSITE: https://github.com/Platane/snk -->
+<!-- 🐍 CONTRIBUTION SNAKE -->
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Shahzaib-code12/Shahzaib-code12/snake/github-snake-dark.svg"
     width="100%"
-    alt="GitHub Contribution Snake"
+    alt="Shahzaib Contribution Snake"
   />
 </p>
 
