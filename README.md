@@ -93,8 +93,9 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
 <table>
   <tr>
     <td width="50%">
-      <h3>📈 Enterprise Performance Management</h3>
+      
       <p>
+      <h3>📈 Enterprise Performance Management</h3>
         Enterprise performance platform for monitoring departmental KPIs,
         metrics, dashboards, daily feeds, and operational reports.
       </p>
