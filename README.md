@@ -93,18 +93,15 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
 <table>
   <tr>
     <td width="50%">
-      
-      <p>
       <h3>📈 Enterprise Performance Management</h3>
-        Enterprise performance platform for monitoring departmental KPIs,
+      <p> Enterprise performance platform for monitoring departmental KPIs,
         metrics, dashboards, daily feeds, and operational reports.
       </p>
       <p><b>ASP.NET Core • C# • ADO.NET • SQL Server • jQuery • Bootstrap</b></p>
     </td>
     <td width="50%">
       <h3>🚍 Daewoo Express Corporate Platform</h3>
-      <p>
-        Corporate and ticketing platform featuring authentication,
+      <p> Corporate and ticketing platform featuring authentication,
         online seat selection, advance booking, booking management,
         terminal locator, FAQs, services, and corporate content.
       </p>
@@ -115,16 +112,14 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
   <tr>
     <td width="50%">
       <h3>🚌 Smart Transit Management System</h3>
-      <p>
-        Management platform covering insurance, outsourced buses,
+      <p> Management platform covering insurance, outsourced buses,
         surveys, complaints, feedback, and operational dashboards.
       </p>
       <p><b>ASP.NET Core • C# • SQL Server • jQuery • Bootstrap</b></p>
     </td>
     <td width="50%">
       <h3>🛒 E-Commerce Digital Store</h3>
-      <p>
-        N-Tier e-commerce application with real-time AJAX search,
+      <p>  N-Tier e-commerce application with real-time AJAX search,
         product approval workflows, and role-based Admin/Customer access.
       </p>
       <p><b>ASP.NET Core 8 • EF Core • SQL Server • Bootstrap 5</b></p>
@@ -134,16 +129,14 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
   <tr>
     <td width="50%">
       <h3>🏦 Banking & Payroll Management</h3>
-      <p>
-        Secure banking and payroll platform featuring JWT authentication,
+      <p>  Secure banking and payroll platform featuring JWT authentication,
         role-based access, transaction processing, and automated payroll calculations.
       </p>
       <p><b>ASP.NET Core MVC • C# • SQL Server • EF Core • JWT</b></p>
     </td>
     <td width="50%">
       <h3>🍔 Food Ordering REST API</h3>
-      <p>
-        RESTful backend covering menu management and the complete
+      <p>  RESTful backend covering menu management and the complete
         food ordering lifecycle from placement to completion.
       </p>
       <p><b>Node.js • Express.js • MongoDB • JWT</b></p>
@@ -153,16 +146,14 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
   <tr>
     <td width="50%">
       <h3>🌐 VPN Application Frontend</h3>
-      <p>
-        Responsive Angular frontend with reusable components and
+      <p> Responsive Angular frontend with reusable components and
         a modular architecture for a VPN application.
       </p>
       <p><b>Angular • TypeScript • Bootstrap 5</b></p>
     </td>
     <td width="50%">
       <h3>🔐 Secure Authentication Service</h3>
-      <p>
-        Standalone authentication service with registration, login,
+      <p> Standalone authentication service with registration, login,
         bcrypt password hashing, JWT tokens, and protected routes.
       </p>
       <p><b>Node.js • Express.js • MongoDB • JWT • bcrypt</b></p>
