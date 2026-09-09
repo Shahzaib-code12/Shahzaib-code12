@@ -41,7 +41,7 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
 * 🔐 **Authentication Service** — Standalone authentication system using **JWT, bcrypt, protected routes, and middleware-based authorization**.
 * 🌐 **VPN Application Frontend** — Responsive **Angular/TypeScript** frontend with a modular component-based architecture.
 
-<h2 align="center">🛠️ Technical Expertise</h2>
+<h2 align="left">🛠️ Technical Expertise</h2>
 
 <h3 align="center">Backend & Frameworks</h3>
 
