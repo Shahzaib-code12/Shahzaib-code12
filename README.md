@@ -88,7 +88,7 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
 </p>
 
 
-## 📌Featured Projects
+## 📌 Featured Projects
 
 <table>
   <tr>
