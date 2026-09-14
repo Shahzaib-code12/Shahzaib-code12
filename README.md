@@ -16,7 +16,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
   </a>
 </p>
----
  
 ## 👨‍💻 About Me
  
@@ -38,7 +37,7 @@ Delivered 5+ production-level applications across the .NET and MERN ecosystems:
 * 🍔 **Food Ordering API** — RESTful backend using Node.js, Express.js, and MongoDB covering the complete order lifecycle.
 * 🔐 **Authentication Service** — Standalone JWT + bcrypt authentication system with protected routes and middleware-based authorization.
 * 🌐 **VPN Application Frontend** — Responsive Angular/TypeScript frontend with a modular, component-based architecture.
----
+
  
 ## 🛠️ Technical Expertise
  
