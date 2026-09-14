@@ -51,6 +51,7 @@ Delivered 5+ production-level applications across the .NET and MERN ecosystems:
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
+
 ### 🗄️ Database & Data Access
  
 <p align="center">
@@ -61,11 +62,13 @@ Delivered 5+ production-level applications across the .NET and MERN ecosystems:
   <img src="https://img.shields.io/badge/Stored%20Procedures-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Stored Procedures" />
   <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
 </p>
+
 ### 🎨 Frontend
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular,typescript" height="50" alt="Frontend Technologies" />
 </p>
+
 ### 🏗️ Architecture & Development Practices
  
 <p align="center">
@@ -74,15 +77,15 @@ Delivered 5+ production-level applications across the .NET and MERN ecosystems:
   <img src="https://img.shields.io/badge/Unit%20of%20Work-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Unit of Work" />
   <img src="https://img.shields.io/badge/Role--Based%20Authorization-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Role Based Authorization" />
 </p>
+
 ### 🧰 Tools & Development
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" height="50" alt="Development Tools" />
 </p>
----
+
  
 ## 📌 Featured Projects
- 
 <table>
   <tr>
     <td width="50%">
