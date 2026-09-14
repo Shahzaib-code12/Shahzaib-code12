@@ -99,7 +99,7 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
       </p>
       <p><b>ASP.NET Core • C# • ADO.NET • SQL Server • jQuery • Bootstrap</b></p>
     </td>
-    <td width="50%">
+    <td width="50%"> 
       <h3>🚍 Daewoo Express Corporate Platform</h3>
       <p> Corporate and ticketing platform featuring authentication,
         online seat selection, advance booking, booking management,
