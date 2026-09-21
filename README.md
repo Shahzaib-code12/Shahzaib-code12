@@ -19,7 +19,7 @@
  
 ## 👨‍💻 About Me
  
-I'm a **.NET Developer** who builds and maintains production-grade, database-driven enterprise applications — end to end, from transactional SQL Server backends to responsive, AJAX-driven front ends. My core stack is **C#, ASP.NET Core MVC, ADO.NET, SQL Server (Stored Procedures), JavaScript/jQuery, and Bootstrap**, with additional experience across the **MERN and Angular** ecosystems.
+I'm a **.NET Developer** who builds and maintains production-grade, database-driven enterprise applications — end to end, from transactional SQL Server backends to responsive, AJAX-driven front ends. My core stack is **C#, ASP.NET Core MVC, ADO.NET, SQL Server (Stored Procedures), JavaScript/jQuery, and Bootstrap**, with additional experience across the **MERN** ecosystems.
  
 I care most about **data integrity, clean data-access patterns, and diagnosing root causes** rather than patching symptoms — the kind of work that keeps real business systems reliable under daily use.
  
