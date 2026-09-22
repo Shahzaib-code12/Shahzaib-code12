@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Shahzaib </h1> 
  
-<h3 align="center">.NET Developer | C# | ASP.NET Core MVC | SQL Server</h3>
+<h3 align="center">.NET Developer | C# | ASP.NET Core | MVC | SQL Server</h3>
  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Building+Enterprise+Systems+at+Daewoo+Pakistan;ASP.NET+Core+MVC+%7C+C%23+%7C+SQL+Server;Stored+Procedures+%7C+ADO.NET+%7C+Transactional+Systems;Fixing+Root+Causes%2C+Not+Symptoms;Always+Learning+%26+Building" alt="Typing SVG" />
