@@ -30,26 +30,22 @@ I focus on reliable business logic, data integrity, maintainable code, and solvi
 
 ### Daewoo Pakistan | .NET Developer
 
-Working on enterprise applications and operational systems supporting business processes, inventory, reporting, fleet operations, and employee workflows.
+Developing and maintaining enterprise applications for fleet operations, inventory management, employee workflows, and business reporting.
 
-- **Rent Management System (RMS):** Developed modules for policy, vendor, owner, insurer, vehicle, fleet, and fixed asset management, including reporting, audit-related functionality, and role-based access.
-- **ANF Uniform & Request Management:** Implemented multi-item request submissions, request history, approval/rejection workflows, role-based visibility, and automated email notifications.
-- **ANF Inventory & Stock Management:** Developed inventory operations, stock-in/stock-out vouchers, bundle-based issuance, employee material assignment, stock reports, category/item filters, and Excel exports.
-- **Employee Payment & RDLC Reporting:** Built employee payment selection workflows, unpaid-item tracking, meal deduction logic, and 80mm thermal receipt reporting with employee and office copies.
-- **Enterprise Performance Management (EPM):** Developed daily operational feeds and reporting workflows for Finance, Urban, FastEx, Fueling, and EBS, with validation, submission safeguards, and history views.
-- **Smart Transit Management System:** Worked on operational modules covering insurance, outsourced buses, agreements, complaints, inventory, and related management workflows.
-- **Daewoo Express Corporate Website:** Delivered the terminal locations feature using dynamic JSON-driven data, authored FAQ content, and performed UAT reviews to identify launch-blocking issues.
+- **Rent Management System (RMS):** Fleet, insurance, vendor, policy, and fixed asset management with reporting and role-based access.
+- **ANF Inventory & Operations:** Stock management, uniform requests, approval workflows, employee item assignments, and inventory reports.
+- **Employee Payment & Reporting:** Payment workflows, RDLC reports, and thermal receipt printing.
+- **Enterprise Performance Management (EPM):** Daily operational reporting, data validation, and submission history across five business units.
+- **Smart Transit & Corporate Website:** Supported operational management modules, terminal locations, FAQs, and UAT reviews.
 
 ### Nova Soft Tech | Previous Experience
 
-Delivered applications across .NET and MERN technologies, including:
+Contributed to 5+ applications across .NET and MERN technologies.
 
-- **E-Commerce Platform:** N-Tier architecture, Repository Pattern, Unit of Work, ASP.NET Core Identity, AJAX search, and role-based authorization.
-- **Banking & Payroll System:** Transaction processing, JWT authentication, role-based access, and automated payroll calculations.
-- **Food Ordering API:** RESTful backend with Node.js, Express.js, and MongoDB for menu and order lifecycle management.
-- **Authentication Service:** JWT-based authentication, bcrypt password hashing, protected routes, and authorization middleware.
-- **VPN Application Frontend:** Responsive Angular and TypeScript interface with reusable components and modular architecture.
-
+- **E-Commerce:** N-Tier architecture, Repository Pattern, Unit of Work, and role-based authorization.
+- **Banking & Payroll:** Transaction processing, JWT authentication, and payroll calculations.
+- **Food Ordering & Authentication APIs:** RESTful services, MongoDB, JWT, and bcrypt.
+- **VPN Frontend:** Responsive Angular and TypeScript application.
 ## 🚀 Featured Projects
 
 <table align="center">
@@ -117,68 +113,59 @@ Delivered applications across .NET and MERN technologies, including:
 
 ## 🛠️ Technical Skills
 
-### Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" height="42" alt="Backend technologies"/>
-</p>
-
-- C#, ASP.NET Core MVC, .NET 6 and .NET 8
-- ADO.NET, Entity Framework Core
-- REST APIs, JWT authentication
-- MVC architecture, Repository Pattern, Unit of Work
-
-### Database & Data Access
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb" height="42" alt="Database technologies"/>
-</p>
-
-- Microsoft SQL Server and T-SQL
-- Stored Procedures, joins, indexes, constraints
-- Database transactions, rollback, and data integrity
-- Query optimization, EF Core migrations, audit fields
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular,typescript" height="42" alt="Frontend technologies"/>
-</p>
-
-- HTML5, CSS3, JavaScript
-- jQuery, AJAX, Fetch API
-- Bootstrap 5, Razor Views
-- Select2, SweetAlert2, Chart.js
-- Responsive layouts, dynamic forms, and interactive tables
-
-### Reporting & Enterprise Workflows
-
-- RDLC reports and PDF rendering
-- 80mm thermal receipt layouts
-- Excel exports and operational reports
-- Role-based access and session-based authorization
-- Multi-step approval workflows and email notifications
-- Transactional master-detail operations
-
-### Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" height="42" alt="Development tools"/>
-</p>
-
-- Visual Studio 2022, VS Code
-- Git, GitHub, branch-based development
-- SQL Server Management Studio (SSMS)
-- Debugging, testing, and User Acceptance Testing (UAT)
-
-## 📊 GitHub Activity
+### ⚙️ Backend & Frameworks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib-code12&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" height="45" alt="Backend Technologies"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ADO.NET"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
+### 🗄️ Database & Data Access
+
 <p align="center">
-  <img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=Shahzaib-code12&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=8B5CF6&area=true" width="100%" alt="GitHub Activity Graph"/>
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb" height="45" alt="Database Technologies"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Stored%20Procedures-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Stored Procedures"/>
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular,typescript" height="45" alt="Frontend Technologies"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AJAX-007FFF?style=flat-square" alt="AJAX"/>
+  <img src="https://img.shields.io/badge/Razor%20Views-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Razor Views"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+</p>
+
+### 🏗️ Architecture & Development Practices
+
+<p align="center">
+  <img src="https://img.shields.io/badge/N--Tier%20Architecture-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="N-Tier Architecture"/>
+  <img src="https://img.shields.io/badge/Repository%20Pattern-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Repository Pattern"/>
+  <img src="https://img.shields.io/badge/Unit%20of%20Work-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Unit of Work"/>
+  <img src="https://img.shields.io/badge/Role--Based%20Authorization-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Role-Based Authorization"/>
+  <img src="https://img.shields.io/badge/SQL%20Transactions-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Transactions"/>
+  <img src="https://img.shields.io/badge/RDLC%20Reporting-2563EB?style=flat-square" alt="RDLC Reporting"/>
+</p>
+
+### 🧰 Tools & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" height="45" alt="Development Tools"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio"/>
+  <img src="https://img.shields.io/badge/UAT-0F766E?style=flat-square" alt="User Acceptance Testing"/>
+  <img src="https://img.shields.io/badge/Debugging-475569?style=flat-square" alt="Debugging"/>
 </p>
 
 ## 🐍 Contribution Graph
