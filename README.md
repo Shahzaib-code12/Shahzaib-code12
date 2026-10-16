@@ -168,10 +168,33 @@ Contributed to 5+ applications across .NET and MERN technologies.
   <img src="https://img.shields.io/badge/Debugging-475569?style=flat-square" alt="Debugging"/>
 </p>
 
-## 🐍 Contribution Graph
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shahzaib-code12/Shahzaib-code12/snake/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib-code12&include_all_commits=true&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=Shahzaib-code12&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=8B5CF6&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+
+## 🧩  Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Shahzaib-code12/Shahzaib-code12/snake/github-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
