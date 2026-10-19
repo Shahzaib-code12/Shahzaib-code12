@@ -80,7 +80,7 @@ Contributed to 5+ applications across .NET and MERN technologies.
       <p><strong>Tech:</strong> ASP.NET Core, C#, SQL Server, jQuery, Bootstrap, JavaScript</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💳 FeeFlow — Fee & Subscription Management</h3>
+      <h3>💳 EasyManage — Fee & Subscription Management</h3>
       <p>Multi-tenant management system with organizations, branches, members, guardians, fee plans, subscriptions, invoices, payments, and member ledgers. Includes billing previews, discounts, subscription lifecycle management, audit fields, and soft deletion.</p>
       <p><strong>Tech:</strong> ASP.NET Core MVC, .NET 8, EF Core 8, SQL Server, Bootstrap 5, JavaScript</p>
     </td>
