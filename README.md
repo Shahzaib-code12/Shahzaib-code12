@@ -1,4 +1,4 @@
-<h1 align="center">  Hey, I'm Shahzaib</h1>
+<h1 align="center"> Shahzaib</h1>
 
 <h3 align="center">.NET Developer | ASP.NET Core MVC | C# | SQL Server</h3>
 
