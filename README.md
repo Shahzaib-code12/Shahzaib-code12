@@ -113,7 +113,7 @@ Contributed to 5+ applications across .NET and MERN technologies.
 
 ## 🛠️ Technical Skills
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend  Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" height="45" alt="Backend Technologies"/>
