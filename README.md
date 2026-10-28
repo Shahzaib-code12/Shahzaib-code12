@@ -49,32 +49,95 @@ Contributed to **5+ applications** across .NET and MERN technologies.
 - Worked on e-commerce, banking, payroll, authentication, and role-based authorization.
 - Built REST APIs using Node.js, Express.js, MongoDB, JWT, and bcrypt.
 - Contributed to responsive frontend applications using React, Angular, and TypeScript.
+
+
 ## 🚀 Featured Projects
 
-<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+<table width="100%" align="center" cellpadding="0" cellspacing="0" style="width:100%; border-collapse:collapse; border-spacing:0;">
   <tr>
-    <td width="50%" valign="top" style="padding: 12px; margin: 0;">
+    <td width="50%" valign="top" style="padding:8px;">
       <h3>🏠 Rent Management System</h3>
-      <p>Enterprise management system covering fleet operations, vendors, owners, insurers, policies, vehicle types, buses, and related records.</p>
+      <p>Enterprise application for fleet operations, vendors, owners, insurers, policies, vehicle types, buses, and related records.</p>
       <p><strong>Highlights:</strong> Stored procedures, AJAX forms, validation, and role-based access control.</p>
       <p><strong>Tech:</strong> ASP.NET Core MVC, .NET 6, C#, ADO.NET, SQL Server, jQuery, Bootstrap 5</p>
     </td>
-    <td width="50%" valign="top" style="padding: 12px; margin: 0;">
+    <td width="50%" valign="top" style="padding:8px;">
       <h3>📊 Fixed Asset Management & Analytics</h3>
-      <p>Fixed asset lifecycle management with record entry, editing, filtered reports, Excel export, audit logging, and an analytics dashboard.</p>
+      <p>Fixed asset lifecycle management with record entry, editing, filtered reporting, Excel export, audit logging, and an analytics dashboard.</p>
       <p><strong>Tech:</strong> ASP.NET Core MVC, C#, ADO.NET, SQL Server, Chart.js</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="padding: 12px; margin: 0;">
+    <td width="50%" valign="top" style="padding:8px;">
       <h3>📦 ANF Inventory & Uniform Workflow</h3>
-      <p>Inventory operations covering item requests, approval workflows, stock movements, employee assignments, transaction history, and reports.</p>
-      <p><strong>Tech:</strong> ASP.NET Core MVC, C#, ADO.NET, SQL Server, jQuery, Bootstrap 5</p>
+      <p>Inventory operations covering item requests, approval workflows, stock movements, employee assignments, transaction history, and inventory reports.</p>
+      <p><strong>Highlights:</strong> Master-detail transactions and automated email notifications.</p>
+      <p><strong>Tech:</strong> ASP.NET Core MVC, C#, ADO.NET, SQL Server, jQuery, Bootstrap 5, SMTP</p>
     </td>
-    <td width="50%" valign="top" style="padding: 12px; margin: 0;">
+    <td width="50%" valign="top" style="padding:8px;">
       <h3>🧾 Employee Payment & Reporting</h3>
       <p>Employee payment processing with item-level payment details, meal deduction rules, RDLC reporting, and thermal receipt printing.</p>
       <p><strong>Tech:</strong> ASP.NET Core MVC, C#, SQL Server, RDLC, ReportViewerCore, JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>📈 Enterprise Performance Management</h3>
+      <p>Daily operational reporting across five business units, with calculations, validation, duplicate-submission prevention, and historical records.</p>
+      <p><strong>Tech:</strong> ASP.NET Core MVC, C#, ADO.NET, SQL Server, jQuery, AJAX, Bootstrap</p>
+    </td>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>🚌 Smart Transit Management</h3>
+      <p>Operational management platform supporting insurance, outsourced buses, surveys, complaints, feedback, dashboards, and reporting.</p>
+      <p><strong>Tech:</strong> ASP.NET Core, C#, ADO.NET, SQL Server, JavaScript, jQuery, Bootstrap</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>🌐 Daewoo Express Corporate Website</h3>
+      <p>Improved terminal information delivery using JSON-driven loading and in-memory caching. Contributed FAQ content and user acceptance testing.</p>
+      <p><strong>Tech:</strong> ASP.NET Core MVC, C#, SQL Server, JavaScript, jQuery, Bootstrap</p>
+    </td>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>🧩 Care Connect</h3>
+      <p>Enhanced quiz functionality with a countdown timer, automatic submission, date-filtered reports, and DataTables export.</p>
+      <p><strong>Tech:</strong> ASP.NET Core MVC, C#, ADO.NET, SQL Server, Razor Partial Views, DataTables</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>💼 EasyManage — Fee & Subscription Management</h3>
+      <p>Multi-tenant management system for organizations, branches, members, guardians, fee plans, subscriptions, invoices, payments, and member ledgers. Includes billing previews, discounts, audit fields, and soft deletion.</p>
+      <p><strong>Tech:</strong> ASP.NET Core MVC, .NET 8, EF Core 8, SQL Server, Bootstrap 5, JavaScript</p>
+    </td>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>🛒 E-Commerce Platform</h3>
+      <p>Layered e-commerce application with product management, AJAX search, approval workflows, and role-based customer and administrator access.</p>
+      <p><strong>Tech:</strong> ASP.NET Core, C#, EF Core, SQL Server, Repository Pattern, Unit of Work</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>🏦 Banking & Payroll System</h3>
+      <p>Business application supporting transaction processing, secure authentication, role-based access, and automated payroll calculations.</p>
+      <p><strong>Tech:</strong> ASP.NET Core MVC, C#, SQL Server, EF Core, JWT</p>
+    </td>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>🍔 Food Ordering REST API</h3>
+      <p>Backend API supporting menu management, order lifecycle operations, and authenticated API access.</p>
+      <p><strong>Tech:</strong> Node.js, Express.js, MongoDB, JWT, bcrypt</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>🌍 VPN Application Frontend</h3>
+      <p>Responsive VPN application frontend built with reusable components and modular UI architecture.</p>
+      <p><strong>Tech:</strong> Angular, TypeScript, Bootstrap 5</p>
+    </td>
+    <td width="50%" valign="top" style="padding:8px;">
+      <h3>🔐 Authentication & Access Control</h3>
+      <p>Authentication and authorization features for business applications, including secure login, role-based permissions, and protected workflows.</p>
+      <p><strong>Tech:</strong> ASP.NET Core Identity, JWT, bcrypt, SQL Server</p>
     </td>
   </tr>
 </table>
